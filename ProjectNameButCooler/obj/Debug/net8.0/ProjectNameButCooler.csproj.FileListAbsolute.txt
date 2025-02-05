@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\bin\Debug\net8.0\ProjectNameButCooler.exe
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\bin\Debug\net8.0\ProjectNameButCooler.deps.json
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\bin\Debug\net8.0\ProjectNameButCooler.runtimeconfig.json
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\bin\Debug\net8.0\ProjectNameButCooler.dll
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\bin\Debug\net8.0\ProjectNameButCooler.pdb
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.sourcelink.json
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.dll
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\refint\ProjectNameButCooler.dll
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.pdb
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ProjectNameButCooler.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TARpv24TestSuper\ProjectNameButCooler\obj\Debug\net8.0\ref\ProjectNameButCooler.dll
