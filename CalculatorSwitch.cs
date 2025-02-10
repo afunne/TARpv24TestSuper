@@ -1,6 +1,6 @@
 ﻿namespace CalculatorSwitch
 {
-    internal class Program
+    internal class CalculatorSwitch
     {
         static void Main(string[] args)
         {
@@ -55,7 +55,11 @@
                     Console.WriteLine("Answer: ");
                     Console.WriteLine(firtsNr + " / " + secondNr + " = " + result);
                     break;
-            }
+
+                default:
+                    Console.WriteLine("Bro, not cool");
+                    break;
+            }   
         }
-}
-}
+    }
+} 

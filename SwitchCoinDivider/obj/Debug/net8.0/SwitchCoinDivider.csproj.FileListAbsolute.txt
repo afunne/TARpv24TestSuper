@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\bin\Debug\net8.0\SwitchCoinDivider.exe
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\bin\Debug\net8.0\SwitchCoinDivider.deps.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\bin\Debug\net8.0\SwitchCoinDivider.runtimeconfig.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\bin\Debug\net8.0\SwitchCoinDivider.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\bin\Debug\net8.0\SwitchCoinDivider.pdb
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.AssemblyInfo.cs
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.sourcelink.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\refint\SwitchCoinDivider.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.pdb
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\SwitchCoinDivider.genruntimeconfig.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\SwitchCoinDivider\obj\Debug\net8.0\ref\SwitchCoinDivider.dll

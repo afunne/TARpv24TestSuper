@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\bin\Debug\net8.0\IfElseCalculator.exe
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\bin\Debug\net8.0\IfElseCalculator.deps.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\bin\Debug\net8.0\IfElseCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\bin\Debug\net8.0\IfElseCalculator.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\bin\Debug\net8.0\IfElseCalculator.pdb
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.sourcelink.json
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\refint\IfElseCalculator.dll
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.pdb
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\IfElseCalculator.genruntimeconfig.cache
+C:\Users\opilane\source\repos\l\ConsoleApp1\IfElseCalculator\obj\Debug\net8.0\ref\IfElseCalculator.dll
